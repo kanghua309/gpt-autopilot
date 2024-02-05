@@ -119,3 +119,13 @@ https://github.com/unconv/gpt-autopilot/assets/120440395/34c814e9-9360-4c08-b776
 ## Support
 
 If you like this code, consider [buying me a coffee](https://buymeacoffee.com/unconv) and/or subscribing to my [YouTube-channel](https://youtube.com/@unconv)
+
+
+
+
+# 关于课程制作
+第一个参数为课程制作的代码，第二个参数为输出的文件名
+模版处于prompts/course文件夹下
+```python
+python gpt-autocourse.py demos/inventory-js /tmp/y.md
+```
